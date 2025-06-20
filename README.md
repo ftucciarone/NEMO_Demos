@@ -26,3 +26,12 @@ Tiong Teck **Teo**, <br>
 [Jeff **Polton**](https://orcid.org/0000-0003-0131-5250), National Oceanography Centre Liverpool, Liverpool <br>
 Daley **Calvert**, MetOffice, Exeter, United Kingdom <br> 
 
+---
+## Machine Learning demonstrator
+[NEMO5 Machine Learning demonstrator](https://github.com/morays-community/NEMO-ORCA2_MLE), made by Alexis **Barge**, based on work of Marcella **Contreras**.
+
+### Contributors 
+[Alexis **Barge**](https://orcid.org/0009-0006-0403-0292), IGE, Gremoble, France <br>
+
+### Mentors
+[Clement **Rousset**](https://orcid.org/0000-0002-9722-3969), IPSL, France <br> 
