@@ -23,6 +23,19 @@ Oliver **Lambert-Brown**, MetOffice, Exeter, United Kingdom <br>
 Tiong Teck **Teo**, <br>
 
 ### Mentors
-[Jeff **Polton**](https://orcid.org/0000-0003-0131-5250), National Oceanography Centre Liverpool, Liverpool <br>
+[Jeff **Polton**](https://orcid.org/0000-0003-0131-5250), National Oceanography Centre, Liverpool, United Kingdom <br>
 Daley **Calvert**, MetOffice, Exeter, United Kingdom <br> 
+
+---
+## SURGE demonstrator
+[SURGE demonstrator](https://github.com/NOC-MSM/SURGE_demo), made by Nicolas **Gonzalez**, Ollie **Tooth**, Jeff **Polton**, Sibylle **Téchené** and Jérôme **Chanut**
+
+### Contributors 
+[Nicolas **Gonzalez**](https://orcid.org/0000-0001-5377-5158), CNRM, Toulouse, France <br>
+[Ollie **Tooth**](https://orcid.org/0000-0002-9894-9390), National Oceanography Centre, Southampton, United Kingdom <br>
+
+### Mentors
+[Jeff **Polton**](https://orcid.org/0000-0003-0131-5250), National Oceanography Centre, Liverpool, United Kingdom <br>
+Sibylle **Téchené**, LOCEAN-IPSL, Sorbonne Université, Paris, France <br>
+Jérôme **Chanut**, Mercator Ocean, Toulouse, France <br> 
 
